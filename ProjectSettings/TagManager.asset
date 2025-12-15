@@ -41,3 +41,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floors
+    uniqueID: 3320263239
+    locked: 0
+  - name: BGWall
+    uniqueID: 350242205
+    locked: 0
+  - name: InnerWall
+    uniqueID: 4262965361
+    locked: 0
+  - name: Walls
+    uniqueID: 3712035113
+    locked: 0
+  - name: BGObjects
+    uniqueID: 468545897
+    locked: 0
+  - name: Decorations
+    uniqueID: 2980993329
+    locked: 0
+  - name: WallBGDec
+    uniqueID: 2861673307
+    locked: 0
+  - name: WallFGDec
+    uniqueID: 3424064321
+    locked: 0
+  - name: FGObjects
+    uniqueID: 3540823351
+    locked: 0
+  - name: Player
+    uniqueID: 2947630931
+    locked: 0
