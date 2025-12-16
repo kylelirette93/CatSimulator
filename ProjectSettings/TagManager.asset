@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactable
   layers:
   - Default
   - TransparentFX
@@ -11,7 +12,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Interactable
   - 
   - 
   - 
@@ -64,6 +65,9 @@ TagManager:
     locked: 0
   - name: WallFGDec
     uniqueID: 3424064321
+    locked: 0
+  - name: Interactables
+    uniqueID: 716721059
     locked: 0
   - name: FGObjects
     uniqueID: 3540823351
